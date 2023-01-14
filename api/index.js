@@ -36,7 +36,7 @@ app.listen(SERVER_PORT, async () => {
         else
             logger.info(`Connected to MongoDB`);
     });
-
+    //
     // await ObjectModel.deleteMany({})
     // for (const item of data) {
     //     await ObjectModel.create(item);
