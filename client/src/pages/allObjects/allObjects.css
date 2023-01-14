@@ -1,0 +1,15 @@
+.allObjectsContainer{
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.allObjectsFeed{
+    flex: 9;
+}
+
+.allObjectsProducts{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}

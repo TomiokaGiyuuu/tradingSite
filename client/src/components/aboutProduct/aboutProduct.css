@@ -1,0 +1,60 @@
+.aboutProduct{
+    margin: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.aboutProductTop{
+    display: flex;
+}
+
+.aboutProductName{
+    width: 100%;
+    padding: 30px;
+    position: relative;
+}
+
+.aboutProductNameText{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.aboutProductImg{
+    width: 400px;
+    margin: 10px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.aboutProductDescItem{
+    margin: 15px 0;
+}
+
+.aboutProductPrice{
+    font-size: 32px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.aboutProductBottom{
+    padding: 10px;
+}
+
+.aboutProductBottomDescriptionName{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.aboutProductPriceWrapper{
+}
+
+.aboutProductCallToSeller{
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+    color: #027CFB;
+    padding: 5px;
+    border: 2px solid #027CFB;
+    border-radius: 5px;
+    cursor: pointer;
+}

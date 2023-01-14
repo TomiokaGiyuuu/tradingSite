@@ -1,0 +1,9 @@
+.productInfoContainer{
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.productInfoFeed{
+    flex: 9;
+}

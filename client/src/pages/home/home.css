@@ -1,0 +1,9 @@
+.homeContainer{
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.homeProducts{
+    flex: 9;
+}

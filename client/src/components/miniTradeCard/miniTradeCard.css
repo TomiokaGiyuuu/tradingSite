@@ -1,0 +1,22 @@
+.miniTradeCard{
+    margin: 15px 0;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    cursor: pointer;
+}
+
+.miniTradeCardTop{
+    padding: 10px;
+    font-size: 18px;
+}
+
+.miniTradeCardTopImg{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.miniTradeSecond{
+}

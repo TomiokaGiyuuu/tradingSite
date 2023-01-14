@@ -1,0 +1,42 @@
+.card{
+    width: 300px;
+    border-radius: 10px;
+    background-color: white;
+    -webkit-box-shadow: 0px 3px 10px 3px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 3px 10px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 3px 10px 3px rgba(0, 0, 0, 0.2);
+    margin: 10px 30px 30px 10px;
+    cursor: pointer;
+}
+
+.cardWrapper{
+    padding: 10px;
+    font-size: 18px;
+}
+
+.cardTop{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cardTopImg{
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+}
+
+.cardHr{
+    margin: 10px 0;
+}
+
+.cardShowTrades{
+    margin-top: 7px;
+    color: #027CFB;
+    cursor: pointer;
+}
+
+.cardWantCategoryPrice{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
